@@ -64,6 +64,9 @@ print("Database created!")
 
 This project was created by Lukas Zetterberg.
 
-![image](https://github.com/Lukas-dev1/Person-register-api-html/assets/126101524/dc4561aa-f228-4477-bcdc-09444af4231e)
+![image](https://github.com/Lukas-dev1/Person-register-api-html/assets/126101524/7e880503-b00c-4706-b086-ddc2eeca1a60)
+![image](https://github.com/Lukas-dev1/Person-register-api-html/assets/126101524/1fe7d935-8266-4d02-b440-50cbbbdfc242)
+
+
 
 
