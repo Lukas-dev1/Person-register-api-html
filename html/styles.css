@@ -1,0 +1,76 @@
+/* styles.css */
+
+
+.main-bar{
+    padding-bottom: 1rem;
+}
+.main-bar h2{
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 700;
+    font: italic;
+}
+/* Container for each person's profile */
+.person-profile {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 11rem;
+    height: 18rem; /* Adjust width for three columns with margin */
+    display: inline-block;
+    vertical-align: top;
+    position: relative; /* Added position relative */
+    
+}
+/* Profile picture style */
+.person-profile img {
+    max-width: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+/* Header style */
+.person-profile h2 {
+    margin: 0;
+    font-size: 16px;
+    color: #333;
+}
+
+/* Body text style */
+.person-profile p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #666;
+
+}
+
+
+
+
+  /* Resetting default margin and padding */
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  /* Navbar styles */
+  nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+  }
+
+  /* Navbar links */
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 18px;
+    transition: color 0.3s ease;
+  }
+
+  nav a:hover {
+    color: #ffd700; /* Change color on hover */
+  }
