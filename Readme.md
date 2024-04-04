@@ -1,5 +1,3 @@
-Certainly! Below is the Markdown text formatted specifically for copying into a `README.md` file:
-
 ```markdown
 # Project Name
 
